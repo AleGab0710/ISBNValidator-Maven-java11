@@ -25,6 +25,8 @@
 
   <!--  And now, a list of Maven projects that we depend upon -->
   <dependencies>
+	<!--new comment 15:55-->
+	
 	<!-- another new comment 15:36-->
 	     
 	<!-- new comment-->
