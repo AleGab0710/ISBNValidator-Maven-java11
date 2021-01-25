@@ -25,7 +25,8 @@
 
   <!--  And now, a list of Maven projects that we depend upon -->
   <dependencies>
-
+	<!-- another new comment 15:36-->
+	     
 	<!-- new comment-->
 
 	<!-- https://mvnrepository.com/artifact/org.junit/junit5-api -->
